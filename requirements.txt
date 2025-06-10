@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+nltk
+tensorflow
+torch
+scikit-learn
+matplotlib
+joblib
+flask_cors
+python-dotenv
