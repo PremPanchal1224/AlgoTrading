@@ -15,15 +15,30 @@ The **AlgoTrading** project is a smart, AI-powered system designed to predict st
 
 ---
 
+
 ## 🔁 Methodology
 
-- **📥 Data Acquisition:** Pulls real-time and historical data using APIs like YFinance and other financial data sources.
-- **🧹 Data Preprocessing:** Cleans, tokenizes, and normalizes data to ensure consistency and clarity.
-- **📐 Feature Engineering:** Transforms data into formats that highlight key trends for ML models.
-- **🧪 Model Training:** Uses LSTM and ML models to learn patterns and predict future prices.
-- **⚡ Real-time Analysis:** Continuously analyzes market data and suggests informed trading decisions.
-- **💬 Response Generation:** The chatbot processes natural language queries and returns intuitive responses.
-- **👤 User Interaction:** Provides stock insights and Q&A support through an intuitive web and chat interface.
+1. **📥 Data Acquisition:**  
+   Pulls real-time and historical data using APIs like YFinance and other financial data sources.
+
+2. **🧹 Data Preprocessing:**  
+   Cleans, tokenizes, and normalizes data to ensure consistency and clarity.
+
+3. **📐 Feature Engineering:**  
+   Transforms data into formats that highlight key trends for ML models.
+
+4. **🧪 Model Training:**  
+   Uses LSTM and ML models to learn patterns and predict future prices.
+
+5. **⚡ Real-time Analysis:**  
+   Continuously analyzes market data and suggests informed trading decisions.
+
+6. **💬 Response Generation:**  
+   The chatbot processes natural language queries and returns intuitive responses.
+
+7. **👤 User Interaction:**  
+   Provides stock insights and Q&A support through an intuitive web and chat interface.
+
 
 ---
 
