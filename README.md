@@ -39,6 +39,7 @@ The **AlgoTrading** project is a smart, AI-powered system designed to predict st
 7. **👤 User Interaction:**  
    Provides stock insights and Q&A support through an intuitive web and chat interface.
 
+![Stock Prediction Flow](https://github.com/user-attachments/assets/e477084e-3868-41f6-b74d-29d31cfec19d)
 
 ---
 
