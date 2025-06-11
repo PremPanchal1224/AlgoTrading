@@ -21,7 +21,7 @@ The **AlgoTrading** project is a smart, AI-powered system designed to predict st
 The system follows a streamlined pipeline — from collecting historical stock data, preprocessing and engineering features, to training LSTM and ML models for price prediction. It also integrates a chatbot that processes user queries in real time and delivers intuitive responses.
 
 ![Stock Prediction Flow](https://github.com/user-attachments/assets/e477084e-3868-41f6-b74d-29d31cfec19d)  
-*Figure: Workflow of the stock prediction and chatbot system, illustrating data flow from acquisition to real-time user interaction.*
+*Figure: Workflow of the stock prediction system, illustrating flow of data*
 
 
 ## 💡 Use Case
@@ -40,16 +40,7 @@ This system is designed for:
 
 ---
 
-## ⚙️ Tech Stack
 
-- **Python** for model logic and backend
-- **Flask** for chatbot web integration
-- **TensorFlow/Keras + PyTorch** for model training
-- **NLTK** for natural language processing
-- **YFinance & Pandas** for financial data handling
-- **HTML/CSS + Flask Templates** for frontend
-
----
 
 ## 🛠 Installation & Setup
 
